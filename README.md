@@ -35,7 +35,7 @@ usable UI (Streamlit) — all wired together into one working, demoable system.
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Charitha-Pendyala/TalentIQ.git
 cd TalentIQ
 pip install -r requirements.txt
 ```
