@@ -1,0 +1,39 @@
+SOFTWARE ENGINEER COMPETENCY FRAMEWORK (SAMPLE DOCUMENT)
+
+LEVEL 1 — Associate Software Engineer (0-2 years experience)
+Core competencies expected:
+- Writes correct, readable code in at least one primary language with guidance from
+  senior engineers.
+- Understands fundamental data structures and algorithms and applies them to solve
+  well-defined problems.
+- Can debug straightforward issues independently; escalates complex or ambiguous
+  issues appropriately.
+- Participates actively in code reviews, both giving and receiving feedback.
+- Follows established coding standards, version control practices, and team
+  workflows (e.g., Git, CI/CD).
+- Communicates status and blockers clearly to the team.
+
+LEVEL 2 — Software Engineer (2-4 years experience)
+Builds on Level 1 competencies, plus:
+- Designs and implements features spanning multiple components with moderate
+  supervision.
+- Identifies edge cases and writes appropriate automated tests (unit, integration).
+- Contributes to technical design discussions and can defend design decisions.
+- Mentors interns or new hires on codebase conventions.
+
+LEVEL 3 — Senior Software Engineer (4-7 years experience)
+Builds on Level 2 competencies, plus:
+- Owns end-to-end delivery of moderately complex systems or features with minimal
+  supervision.
+- Proactively identifies technical debt and proposes remediation plans.
+- Drives cross-team technical collaboration and influences architecture decisions.
+- Actively mentors junior and mid-level engineers.
+
+EVALUATION CRITERIA (used during performance reviews)
+- Technical Execution (40%): code quality, correctness, test coverage, and design
+  soundness relative to level expectations.
+- Collaboration (25%): quality of code reviews given/received, cross-functional
+  communication, and knowledge sharing.
+- Ownership (20%): ability to see tasks through without excessive hand-holding,
+  proportional to level.
+- Growth (15%): evidence of expanding skills, seeking feedback, and applying it.
